@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to Alan's GitHub!  
 
-- 🔭 I’m currently studying Computer Science at Clemson University.  
+- 🔭 I was graduated as a Computer Science master's student at Clemson University recently.  
 - 🛠  I’m currently working with Java, Python, SQL, PHP.
   
 <h3> 🤝🏻 Connect with Me </h3>  
