@@ -1,8 +1,8 @@
 ### Hi there 👋, Welcome to Alan's GitHub!  
 
-- 🔭 I’m a full stack web developer.
-- 🔭 I earned a master of science degree in Computer Science at Clemson University.  
-- 🛠  I’m currently working with JavaScript, Python, Vue, SQL, Java.
+- :thumbsup: I’m a full stack web developer.
+- :mortar_board: I earned a master of science degree in Computer Science at Clemson University.  
+- :star: I’m currently working with JavaScript, Python, Vue, SQL, Java.
   
 <h3> 🤝🏻 Connect with Me </h3>  
 <p align="center">
